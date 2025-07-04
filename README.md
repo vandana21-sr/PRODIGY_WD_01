@@ -30,10 +30,7 @@ JavaScript (Vanilla JS) – Interactivity for scroll and event handling
 
 (Replace with actual screenshot or GIF if available)
 
-📁 Project Structure
-pgsql
-Copy
-Edit
+📁 PRODIGY_WD_01
 ├── index.html
 ├── about.html
 ├── services.html
@@ -41,6 +38,9 @@ Edit
 ├── styles.css
 ├── script.js
 └── README.md
+
+🔗 GitHub Repository
+👉 https://github.com/vandana21-sr/PRODIGY_WD_02
 
 👨‍💻 Developed For
 This project was created as part of the Web Development Internship at Prodigy Infotech, fulfilling Task-01: Responsive Landing Page.
