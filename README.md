@@ -41,15 +41,6 @@ Edit
 ├── styles.css
 ├── script.js
 └── README.md
-📂 How to Run
-Clone the repository
-
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/interactive-navbar
-cd interactive-navbar
-Open index.html in your browser
 
 👨‍💻 Developed For
 This project was created as part of the Web Development Internship at Prodigy Infotech, fulfilling Task-01: Responsive Landing Page.
